@@ -11,6 +11,9 @@ return [0, 1].
 '''
 
 class Solution:
+	'''
+	:class
+	'''
     def twoSum_TLE(self, num, target):
         """
         built-in method .index
