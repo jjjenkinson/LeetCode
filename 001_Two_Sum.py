@@ -11,9 +11,6 @@ return [0, 1].
 '''
 
 class Solution:
-	'''
-	:class
-	'''
     def twoSum_TLE(self, num, target):
         """
         built-in method .index
@@ -52,6 +49,7 @@ class Solution:
                 if ind1 != ind2:
                     return ind1+1, ind2+1
 
-
+ARRAY = [2, 7, 11, 15]
+TARGET = 9
 if __name__ == "__main__":
-    print(Solution().twoSum([3, 2, 4], 6))
+    print(Solution().twoSum(ARRAY, TARGET))

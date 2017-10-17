@@ -5,3 +5,11 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 001_Two_Sum.py	../001_Two_Sum.py	1;"	kind:file	line:1
+ARRAY	../001_Two_Sum.py	/^ARRAY = [2, 7, 11, 15]$/;"	kind:variable	line:52
+Solution	../001_Two_Sum.py	/^class Solution:$/;"	kind:class	line:13
+TARGET	../001_Two_Sum.py	/^TARGET = 9$/;"	kind:variable	line:53
+list_1	../test.py	/^list_1 = [12, 34, 54, 1, 5]$/;"	kind:variable	line:1
+test.py	../test.py	1;"	kind:file	line:1
+twoSum	../001_Two_Sum.py	/^    def twoSum(self, num, target):$/;"	kind:member	line:35
+twoSum_TLE	../001_Two_Sum.py	/^    def twoSum_TLE(self, num, target):$/;"	kind:member	line:14
+twoSum_TLE_2	../001_Two_Sum.py	/^    def twoSum_TLE_2(self, num, target):$/;"	kind:member	line:29
